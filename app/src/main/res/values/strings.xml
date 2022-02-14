@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">AndroidProject</string>
+    <string name="confirmar">Confirmar</string>
+    <string name="minus">-</string>
+    <string name="plus">+</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="BarCasaPaco">Su pedido ha sido realizado correctamente. Pronto se le atenderá y se le cobrará el pedido. Muchas gracias por comprar en \"Bar casa Paco\".</string>
+    <string name="OtroPedido">Realizar otro pedido</string>
+    <string name="montaditos_de_fliete">Montaditos de fliete</string>
+    <string name="croquetas_de_jam_n">Croquetas de jamón</string>
+    <string name="un_5_en_android">Un 5 en Android</string>
+    <string name="_2_95">2,95$</string>
+    <string name="_1_95">1,95$</string>
+    <string name="_5">5$</string>
+    <string name="_0">0</string>
+    <string name="consultar">Consultar</string>
+    <string name="enviar_sugerencias">Enviar sugerencias</string>
+
+</resources>

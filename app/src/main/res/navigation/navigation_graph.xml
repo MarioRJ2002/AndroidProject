@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/navigation_graph"
+    app:startDestination="@id/pedidoFragment">
+
+    <fragment
+        android:id="@+id/pedidoFragment"
+        android:name="com.example.androidproject.ui.main.PedidoFragment"
+        android:label="PedidoFragment" >
+        <action
+            android:id="@+id/action_pedidoFragment_to_pedidoConfirmadoFragment"
+            app:destination="@id/pedidoConfirmadoFragment"
+            app:enterAnim="@anim/slide_in_left" />
+    </fragment>
+    <fragment
+        android:id="@+id/pedidoConfirmadoFragment"
+        android:name="com.example.androidproject.ui.main.PedidoConfirmadoFragment"
+        android:label="PedidoConfirmadoFragment" >
+        <action
+            android:id="@+id/action_pedidoConfirmadoFragment_to_pedidoFragment"
+            app:destination="@id/pedidoFragment"
+            app:enterAnim="@anim/slide_in_right" />
+    </fragment>
+</navigation>

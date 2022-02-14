@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ErenMuere/Desktop/AndroidProject/app/src/main/res/layout/fragment_pedido_confirmado.xml" value="0.22" />
+        <entry key="..\:/Users/ErenMuere/Desktop/AndroidProject/app/src/main/res/layout/main_activity.xml" value="0.1585612968591692" />
+        <entry key="..\:/Users/ErenMuere/Desktop/AndroidProject/app/src/main/res/layout/pedido_fragment.xml" value="0.25" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/AndroidProject/app/src/main/res/layout/main_activity.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/AndroidProject/app/src/main/res/layout/main_fragment.xml" value="0.15729483282674772" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/AndroidProject/app/src/main/res/layout/pedido_fragment.xml" value="0.1915945611866502" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
